@@ -1,4 +1,4 @@
-# photo_editor_pro
+# Photo Editor
 
 A new Flutter application.
 
